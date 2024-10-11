@@ -1,6 +1,6 @@
 
 ## Sobre Mim
-Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 4 meses de experiência no desenvolvimento de aplicações web. Participo de todas as etapas do ciclo de desenvolvimento, incluindo backend, frontend, estruturação de banco de dados e análise de regra de negócio. Tenho conhecimentos sólidos em Java, frameworks populares como Spring e Bootstrap, e boas práticas de desenvolvimento. Focado sempre em entregar soluções de qualidade e otimização de processos.
+Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 4 meses de experiência no desenvolvimento de aplicações web. Focado sempre em novos aprendizados.
 
 ### Habilidades
 - Estruturação de dados e algoritmos
