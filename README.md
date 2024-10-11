@@ -25,7 +25,7 @@ Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 4 meses de 
 
 ### Contatos
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-595959?style=plastic&logo=github&labelColor=595959&color=595959)](https://github.com/KaueGSouzaDevs)[![linkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-595959?style=plastic&logo=linkedin&labelColor=595959&color=595959)](https://www.linkedin.com/in/kau%C3%AA-gallego-de-souza-a59669310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-595959?style=plastic&logo=github&labelColor=595959&color=595959)](https://github.com/KaueGSouzaDevs)  [![linkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-595959?style=plastic&logo=linkedin&labelColor=595959&color=595959)](https://www.linkedin.com/in/kau%C3%AA-gallego-de-souza-a59669310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <!--
