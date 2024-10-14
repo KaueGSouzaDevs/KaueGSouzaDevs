@@ -8,7 +8,6 @@ Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 4 meses de 
 - Versionamento de código com Git
 - Uso de ferramentas de gerenciamento de dependências (Maven)
 - Criação e manutenção de bancos de dados relacionais (PostgreSQL)
-- Trabalho em equipe
 ### Linguagens, Frameworks e Outros:
 
 <div style="display: inline_block">
