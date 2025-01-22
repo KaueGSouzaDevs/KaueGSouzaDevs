@@ -1,6 +1,6 @@
 
 ## Sobre Mim
-Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 4 meses de experiência no desenvolvimento de aplicações web. Focado sempre em novos aprendizados.
+Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 7 meses de experiência no desenvolvimento de aplicações web. Focado sempre em novos aprendizados.
 
 ### Habilidades
 - Estruturação de dados e algoritmos
