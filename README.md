@@ -1,60 +1,18 @@
+## 👋 Olá! Eu sou o Kauê
 
-## 👨‍💻 Sobre Mim
+Sou Desenvolvedor Java Full Stack Júnior, com experiência no desenvolvimento de aplicações web usando Java, Spring Boot e tecnologias modernas de frontend.
 
-Sou Desenvolvedor Full Stack Java Júnior, tenho 21 anos e atuo no desenvolvimento de aplicações web com foco em soluções robustas, organizadas e escaláveis. Tenho experiência prática em projetos reais envolvendo regras de negócio complexas, integração com serviços em nuvem e geração dinâmica de documentos.
+Atualmente trabalho em projetos reais que envolvem regras de negócio complexas, upload de arquivos com Dropzone.js, geração de PDFs, integração com planilhas Excel e uso da Oracle Cloud.
 
-Sempre busco aprimorar meus conhecimentos e me tornar cada vez mais completo como desenvolvedor, com forte interesse em **Inteligência Artificial**, **Cloud Computing** (especialmente AWS e Oracle Cloud) e nas melhores práticas de desenvolvimento moderno.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-#### Backend
-- Java (Spring Boot)
-- Maven
-- Integração e consumo de APIs RESTful
-- Geração de PDFs com iText
-- Processamento de planilhas com Apache POI
-
-#### Frontend
-- HTML, CSS, JavaScript
-- Thymeleaf
-- Dropzone.js
-- Layouts responsivos
-
-#### Banco de Dados
-- PostgreSQL
-- Modelagem relacional e escrita de queries SQL otimizadas
-
-#### DevOps e Outros
-- Git (GitHub)
-- Oracle Cloud Infrastructure (OCI)
-- Controle de versionamento e colaboração com Git
-- Noções de CI/CD e deploy em ambientes de homologação
+Sempre buscando aprender mais e evoluir como desenvolvedor — especialmente em áreas como Cloud Computing e Inteligência Artificial.
 
 ---
 
-### 📁 Projetos Reais
-
-#### 🧩 Portal RH
-- Sistema interno para gestão de colaboradores, admissões, férias, apontamentos e adiantamentos.
-- Importação de dados via Excel com Apache POI.
-- Geração de documentos PDF automatizados.
-- Upload e visualização de arquivos com Dropzone.js.
-- Tecnologias: Java, Spring Boot, Thymeleaf, PostgreSQL, Oracle Cloud.
-
-#### 🧾 Área do Cliente
-- Portal para clientes acessarem documentos, suporte e informações.
-- CRUDs de tickets de suporte com histórico.
-- Uploads integrados à nuvem (Oracle Cloud).
-- Layout responsivo para desktop e mobile.
-
----
-
-### 📚 Em aprendizado contínuo
-- Integrações avançadas com ferramentas no-code/low-code como o N8N
-- Melhores práticas de Clean Code e arquitetura em camadas
-- AWS e escalabilidade de aplicações web
+### 🚀 Tecnologias que uso no dia a dia
+- Java | Spring Boot | Maven
+- HTML | CSS | JavaScript | Thymeleaf
+- PostgreSQL | Oracle Cloud | Git
+- Apache POI | iText | Dropzone.js
 
 ---
 
