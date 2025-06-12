@@ -1,13 +1,63 @@
 
-## Sobre Mim
-Sou estagiário de desenvolvedor Full Stack Java, tenho 21 anos, com 7 meses de experiência no desenvolvimento de aplicações web. Focado sempre em novos aprendizados.
+## 👨‍💻 Sobre Mim
 
-### Habilidades
-- Estruturação de dados e algoritmos
+Sou Desenvolvedor Full Stack Java Júnior, tenho 21 anos e atuo no desenvolvimento de aplicações web com foco em soluções robustas, organizadas e escaláveis. Tenho experiência prática em projetos reais envolvendo regras de negócio complexas, integração com serviços em nuvem e geração dinâmica de documentos.
+
+Sempre busco aprimorar meus conhecimentos e me tornar cada vez mais completo como desenvolvedor, com forte interesse em **Inteligência Artificial**, **Cloud Computing** (especialmente AWS e Oracle Cloud) e nas melhores práticas de desenvolvimento moderno.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Backend
+- Java (Spring Boot)
+- Maven
 - Integração e consumo de APIs RESTful
-- Versionamento de código com Git
-- Uso de ferramentas de gerenciamento de dependências (Maven)
-- Criação e manutenção de bancos de dados relacionais (PostgreSQL)
+- Geração de PDFs com iText
+- Processamento de planilhas com Apache POI
+
+#### Frontend
+- HTML, CSS, JavaScript
+- Thymeleaf
+- Dropzone.js
+- Layouts responsivos
+
+#### Banco de Dados
+- PostgreSQL
+- Modelagem relacional e escrita de queries SQL otimizadas
+
+#### DevOps e Outros
+- Git (GitHub)
+- Oracle Cloud Infrastructure (OCI)
+- Controle de versionamento e colaboração com Git
+- Noções de CI/CD e deploy em ambientes de homologação
+
+---
+
+### 📁 Projetos Reais
+
+#### 🧩 Portal RH
+- Sistema interno para gestão de colaboradores, admissões, férias, apontamentos e adiantamentos.
+- Importação de dados via Excel com Apache POI.
+- Geração de documentos PDF automatizados.
+- Upload e visualização de arquivos com Dropzone.js.
+- Tecnologias: Java, Spring Boot, Thymeleaf, PostgreSQL, Oracle Cloud.
+
+#### 🧾 Área do Cliente
+- Portal para clientes acessarem documentos, suporte e informações.
+- CRUDs de tickets de suporte com histórico.
+- Uploads integrados à nuvem (Oracle Cloud).
+- Layout responsivo para desktop e mobile.
+
+---
+
+### 📚 Em aprendizado contínuo
+- Integrações avançadas com ferramentas no-code/low-code como o N8N
+- Melhores práticas de Clean Code e arquitetura em camadas
+- AWS e escalabilidade de aplicações web
+
+---
+
 ### Linguagens, Frameworks e Outros:
 
 <div style="display: inline_block">
